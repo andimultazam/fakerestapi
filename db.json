@@ -1,7 +1,23 @@
 {
 	"wishes": [{
-		"id": "1",
-		"name": "ABU MUDI",
-		"wish": "Barakallahulakuma wa baraka 'alaikuma fii khaiir"
-	}]
+			"id": "1",
+			"name": "ABU MUDI",
+			"wish": "Barakallahulakuma wa baraka 'alaikuma fii khaiir"
+		},
+		{
+			"id": "2",
+			"name": "Kak Ayu",
+			"wish": "Selamat menempuh hidup baru dek molo. Ingat jalan masih panjang, penuh ombak dan duri, namun tak sedikit juga bunga kesturi. Kami kawal dari sini"
+		},
+		{
+			"id": "3",
+			"name": "Dek Ays",
+			"wish": "Khali momol, happy wedding day. Ayo kita buat playdate segera 👻"
+		},
+		{
+			"id": "4",
+			"name": "Aya",
+			"wish": "Semoga sakinah mawaddah, rahmah molo dan kak aca ❣"
+		}
+	]
 }
