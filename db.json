@@ -1,29 +1,36 @@
 {
 	"wishes": [
-		{
-			"id": "2",
-			"name": "Kak Ayu",
-			"wish": "Selamat menempuh hidup baru dek molo. Ingat jalan masih panjang, penuh ombak dan duri, namun tak sedikit juga bunga kesturi. Kami kawal dari sini"
-		},
-		{
-			"id": "3",
-			"name": "Dek Ays",
-			"wish": "Khali momol, happy wedding day. Ayo kita buat playdate segera 👻"
-		},
-		{
-			"id": "4",
-			"name": "Aya",
-			"wish": "Semoga sakinah mawaddah, rahmah molo dan kak aca ❣"
-		},
-		{
-			"id": "5",
-			"name": "Nanda",
-			"wish": "Selamat tengku maula"
-		},
-		{
-			"name": "Cek ima",
-			"wish": "Selamat menempuh hidup baru tasya 😍😘",
-			"id": "SbJB0AN"
-		}
+		[
+			{
+				"id": "2",
+				"name": "Kak Ayu",
+				"wish": "Selamat menempuh hidup baru dek molo. Ingat jalan masih panjang, penuh ombak dan duri, namun tak sedikit juga bunga kesturi. Kami kawal dari sini"
+			},
+			{
+				"id": "3",
+				"name": "Dek Ays",
+				"wish": "Khali momol, happy wedding day. Ayo kita buat playdate segera 👻"
+			},
+			{
+				"id": "4",
+				"name": "Aya",
+				"wish": "Semoga sakinah mawaddah, rahmah molo dan kak aca ❣"
+			},
+			{
+				"id": "5",
+				"name": "Nanda",
+				"wish": "Selamat tengku maula"
+			},
+			{
+				"name": "Cek ima",
+				"wish": "Selamat menempuh hidup baru tasya 😍😘",
+				"id": "SbJB0AN"
+			},
+			{
+				"name": "Kelurga Besar Achmad/Rohani",
+				"wish": "Selamat menempuh hidup baru utk Tasha dan Maula, semoga Berkah dan Rahmat Allah selalu utk ananda berdua, aamiin.... ",
+				"id": "KtxzzTS"
+			}
+		]
 	]
 }
