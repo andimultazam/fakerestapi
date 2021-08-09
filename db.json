@@ -1,9 +1,5 @@
 {
-	"wishes": [{
-			"id": "1",
-			"name": "ABU MUDI",
-			"wish": "Barakallahulakuma wa baraka 'alaikuma fii khaiir"
-		},
+	"wishes": [
 		{
 			"id": "2",
 			"name": "Kak Ayu",
@@ -18,6 +14,16 @@
 			"id": "4",
 			"name": "Aya",
 			"wish": "Semoga sakinah mawaddah, rahmah molo dan kak aca ❣"
+		},
+		{
+			"id": "5",
+			"name": "Nanda",
+			"wish": "Selamat tengku maula"
+		},
+		{
+			"name": "Cek ima",
+			"wish": "Selamat menempuh hidup baru tasya 😍😘",
+			"id": "SbJB0AN"
 		}
 	]
 }
